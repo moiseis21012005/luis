@@ -1,2 +1,2 @@
-# luis
-eu estou aprendendo a respeito 
+# luis aprediz de pensamento computacional
+contrubuidor em plataformas 
